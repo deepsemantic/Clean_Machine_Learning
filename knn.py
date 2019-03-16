@@ -68,15 +68,3 @@ if __name__ == '__main__':
             cnt +=1
     print("accuracy: %d%",(float(cnt)/len(test_Y)))
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
