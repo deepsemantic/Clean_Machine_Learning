@@ -1,1 +1,1 @@
-This branch hosts minimal and clean implementation for the machine (deep) learning algorithms. 100 train sample and 25 test samples are randomly selected from MNIST(http://yann.lecun.com/exdb/mnist/). The selected samples cover labels 0,1,2,3,4.
+This branch hosts minimal and clean implementation for the machine (deep) learning algorithms. The datasets are randomly selected samples from MNIST(http://yann.lecun.com/exdb/mnist/).
